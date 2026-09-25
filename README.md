@@ -19,10 +19,9 @@ Led end to end from brand concept to a live Google Play release: positioning, UX
 
 | Channel | Link |
 |---|---|
-| Google Play | `[Google Play listing — link placeholder]` |
-| App Store | `[Coming soon — placeholder]` |
-| Product site & waitlist | `[byrnit.com — link placeholder]` |
-| Case study / demo video | `[Case study — link placeholder]` |
+| Google Play | [Get it on Google Play](https://play.google.com/store/apps/details?id=com.byrnit.byrnit) |
+| App Store | Coming soon |
+| Product site & waitlist | [byrnit.com](https://byrnit.com/) |
 
 ---
 
@@ -280,7 +279,7 @@ This repository is an **architectural case study**. It includes the brand and UX
 
 Engineering leaders, founders or prospective clients who would like a deeper technical walkthrough (architecture review, code samples under NDA, or a discussion of how this delivery model applies to their product) are welcome to get in touch.
 
-`[Contact — placeholder]`
+**[Book a meeting](https://calendar.app.google/5FeUeC4X1VBYt2bU6)** · [eugeniozamora.com](https://eugeniozamora.com) · [LinkedIn](https://www.linkedin.com/in/eugeniozamora/) · [GitHub](https://github.com/eugeniozamora)
 
 ---
 
